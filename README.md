@@ -21,7 +21,8 @@ See `docs/bug-report-save-button.md` for details.
 ---
 
 📸 Screenshot:
-![Save button not visible]([images/disblur-bug.png](https://github.com/user-attachments/assets/89532506-4cb5-4627-ad88-e38bca84a8ab))
+
+![Save button not visible](https://github.com/JubairRahman/disblur-qa-review/blob/main/images/disblur-bug.png)
 
 ## 📁 Folder Structure
 
