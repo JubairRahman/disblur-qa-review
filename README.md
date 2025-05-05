@@ -32,14 +32,18 @@ disblur-qa-review/
 ├── docs/
 │   ├── test-strategy.md
 │   ├── bug-report-save-button.md
-│   └── usability-review.md
+│   ├── usability-review.md
+│   └── difference-of-tc-type.md
 ├── test-cases/
-│   ├── functional-test-cases.xlsx
-│   ├── ui-ux-test-cases.xlsx
+│   ├── functional-test-cases.md
+│   ├── ui-ux-test-cases.md
+│   ├── installation-user-flow-test-cases.md
+│   ├── installation-user-flow-test-cases.xlsx
 │   └── checklist.md
 ├── images/
 │   └── disblur-bug.png
 └── LICENSE
+
 
 ```
 
